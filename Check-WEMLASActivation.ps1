@@ -29,7 +29,7 @@
       "License server connection successful [hostname.domain.tld:27000]"
 
 .VERSION
-    1.0 / 2026.01.21 / markus.zehnle@braincon.de
+    1.0 / 2026.01.21 / MZe
         - Initial creation
 
 .EXAMPLE
