@@ -3,14 +3,21 @@
 Citrix somehow find it useful to keep the 7.x versioning of the proucts not reflecting the product editions you find in the docs when you check the product version via PowerShell.
 Carl Webster did an amazing job in providing the translation of "PowerShell"-Version vs "Marketing"-Version.
 
-Unfortunately he retired from EUC community so the list could be outdated pretty soon as of this writing (OCT 2023).
-I am trying to update this list on time when a new release appears...
+He updates the list unfrequently because he retired so the list could be outdated (JAN 2026) somewhere.
+I am trying to update this list on time when a new release appears, but all kudos to Webster!!!
 
 Source:
 https://www.carlwebster.com/citrix-xenapp-xendesktop-virtual-apps-and-desktop-product-numbers-and-versions/
 
 | 	Product Version (PowerShell)	| 	Product Version (Marketing)	|
 | 	-------------------	| 	-------------------	|
+| 	7.46 	| 	CVAD 2511	|
+| 	7.45 (Thanks Prateek A.) 	| 	CVAD 2507	|
+| 	7.44 (Thanks Prateek A.) 	| 	CVAD 2503	|
+| 	7.43 	| 	CVAD 2411	|
+| 	7.42 	| 	CVAD 2407	|
+| 	7.41 (Thanks Chris K.) 	| 	CVAD 2402	|
+| 	7.40 (Thanks Chris K.) 	| 	CVAD 2311	|
 | 	7.39 	| 	CVAD 2308	|
 | 	7.38	| 	CVAD 2305	|
 | 	7.37	| 	CVAD 2303	|
